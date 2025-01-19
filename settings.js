@@ -28,14 +28,14 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
-  WORK_TYPE: 'private', // ex: public/private
+  OWNER_NAME: 'Mr Amasha',
+  OWNER_NUMBER: '94701651987',
+  SUDO: '94771595011',
+  WORK_TYPE: 'public', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
-  STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
+  STICKER_AUTHOR: 'ᴍʀ ꜱ ᴜ ᴅ ᴅ ᴀ',
   STICKER_PACK: 'QUEEN ELISA',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
